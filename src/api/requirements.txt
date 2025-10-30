@@ -17,7 +17,7 @@ scikit-learn>=1.2.2
 numpy>=1.24.3
 xgboost>=1.7.5
 pyyaml>=6.0
-
+mlflow>=2.3.1
 
 
 # curl -X POST "http://localhost:55001/predict" \
